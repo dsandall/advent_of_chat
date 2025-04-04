@@ -1,0 +1,3 @@
+/workspace/advent_of_chat/advent_of_chat/build/CMakeFiles/TextFileReader.dir
+/workspace/advent_of_chat/advent_of_chat/build/CMakeFiles/edit_cache.dir
+/workspace/advent_of_chat/advent_of_chat/build/CMakeFiles/rebuild_cache.dir

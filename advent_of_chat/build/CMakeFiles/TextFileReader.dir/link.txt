@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/TextFileReader.dir/src/main.cpp.o -o TextFileReader 
